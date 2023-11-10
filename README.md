@@ -86,6 +86,7 @@ sns.boxplot(data=af)
 
 
 
-
+# Result:
+Hence the program to analyze the data set using data science is applied sucessfully.
 
 
